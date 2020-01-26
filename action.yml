@@ -1,0 +1,8 @@
+name: geekyaction
+description: Action to test using Github actions
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: twitter
+  color: gray-dark
